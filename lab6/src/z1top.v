@@ -129,7 +129,7 @@ module z1top #(
     );
 
 /*
-//---------------------- Audio Code Below (Extra Credit) ---------------------
+//---------------------- Audio Code Below (Optional) ---------------------
     
     wire [9:0] code;
     wire [23:0] fcw, fl_fcw;
